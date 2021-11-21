@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# BookingRequestValidator
-=======
+
 # BookingRequestValidator
 
 ## Installation Guide
@@ -14,4 +12,3 @@ Note. In order to run this component, node.js must be installed.
 
 ## Purpose
 BookingRequestValidator is used for validating booking requests to see if they follow correct JSON syntax as well as having the correct attributes and values expected when creating an appointment.
->>>>>>> 70cdd822307da95bfc13e492095e0038e6700208
